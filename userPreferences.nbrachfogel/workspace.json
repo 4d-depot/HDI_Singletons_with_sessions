@@ -1,0 +1,30 @@
+{
+	"editors": [
+		{
+			"type": "form",
+			"id": 334,
+			"formName": "HDI2"
+		},
+		{
+			"type": "method",
+			"id": 2147483635,
+			"codeDescriptor": {
+				"type": 12,
+				"className": "UserHub",
+				"methodPath": "/SOURCES/Classes/UserHub.4dm"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483643,
+			"codeDescriptor": {
+				"type": 12,
+				"className": "User",
+				"methodPath": "/SOURCES/Classes/User.4dm"
+			}
+		},
+		{
+			"type": "explorer"
+		}
+	]
+}

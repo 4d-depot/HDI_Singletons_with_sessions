@@ -1,0 +1,11 @@
+[
+	{
+		"type": 66,
+		"formula": "cs:C1710.User.me",
+		"expanded": true
+	},
+	{
+		"type": 66,
+		"formula": "cs:C1710.User.me.id"
+	}
+]

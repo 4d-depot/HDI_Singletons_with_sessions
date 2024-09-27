@@ -1,0 +1,128 @@
+{
+	"Sources/Methods/00_Start.4dm": {
+		"startSelection": 18,
+		"endSelection": 18,
+		"firstSelectedLine": 29,
+		"lastSelectedLine": 29,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-04-26T09:14:06.252Z"
+	},
+	"Sources/Methods/InitInfo.4dm": {
+		"startSelection": 20,
+		"endSelection": 20,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-04-25T13:27:06.801Z"
+	},
+	"Sources/Methods/m_Quit.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-04-25T13:27:06.829Z"
+	},
+	"Sources/Classes/UserHub.4dm": {
+		"startSelection": 16,
+		"endSelection": 16,
+		"firstSelectedLine": 14,
+		"lastSelectedLine": 14,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-09-27T13:56:34.627Z"
+	},
+	"Sources/Classes/User.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 9,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-09-27T13:53:20.767Z"
+	},
+	"Sources/Forms/HDI2/method.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-09-27T13:01:56.555Z"
+	},
+	"Sources/Forms/HDI2/ObjectMethods/BtnOK.4dm": {
+		"startSelection": 5,
+		"endSelection": 5,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-09-27T13:03:00.460Z"
+	},
+	"Sources/Forms/HDI2/ObjectMethods/Name1.4dm": {
+		"startSelection": 23,
+		"endSelection": 0,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-05-02T14:39:06.970Z"
+	},
+	"Sources/Forms/HDI2/ObjectMethods/Choose your picture.4dm": {
+		"startSelection": 23,
+		"endSelection": 23,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-09-27T13:02:30.210Z"
+	},
+	"Sources/Methods/SortByDate.4dm": {
+		"startSelection": 5,
+		"endSelection": 5,
+		"firstSelectedLine": 6,
+		"lastSelectedLine": 6,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-04-29T14:01:41.108Z"
+	},
+	"Sources/Forms/HDI2/ObjectMethods/Trace.4dm": {
+		"startSelection": 21,
+		"endSelection": 21,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-05-03T09:07:16.242Z"
+	},
+	"Sources/Forms/HDI2/ObjectMethods/Choose your picture1.4dm": {
+		"startSelection": 21,
+		"endSelection": 21,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-06-19T12:22:04.279Z"
+	},
+	"Sources/Forms/HDI2/ObjectMethods/Tab Control.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-09-27T13:44:48.450Z"
+	},
+	"Sources/Forms/HDI2/ObjectMethods/information.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2024-09-27T13:43:35.734Z"
+	}
+}

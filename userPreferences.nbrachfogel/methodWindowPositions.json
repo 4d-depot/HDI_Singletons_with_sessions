@@ -1,0 +1,86 @@
+{
+	"Sources/Methods/00_Start.4dm": {
+		"left": 315,
+		"top": 295,
+		"width": 1358,
+		"height": 686
+	},
+	"Sources/Methods/InitInfo.4dm": {
+		"left": 189,
+		"top": 311,
+		"width": 1358,
+		"height": 686
+	},
+	"Sources/Methods/m_Quit.4dm": {
+		"left": 189,
+		"top": 311,
+		"width": 1358,
+		"height": 686
+	},
+	"Sources/Classes/UserHub.4dm": {
+		"left": 567,
+		"top": 119,
+		"width": 1345,
+		"height": 970
+	},
+	"Sources/Classes/User.4dm": {
+		"left": 193,
+		"top": 254,
+		"width": 1645,
+		"height": 721
+	},
+	"Sources/Forms/HDI2/method.4dm": {
+		"left": 671,
+		"top": 407,
+		"width": 993,
+		"height": 400
+	},
+	"Sources/Forms/HDI2/ObjectMethods/BtnOK.4dm": {
+		"left": 384,
+		"top": 493,
+		"width": 993,
+		"height": 400
+	},
+	"Sources/Forms/HDI2/ObjectMethods/Name1.4dm": {
+		"left": 537,
+		"top": 473,
+		"width": 993,
+		"height": 400
+	},
+	"Sources/Forms/HDI2/ObjectMethods/Choose your picture.4dm": {
+		"left": 297,
+		"top": 451,
+		"width": 1330,
+		"height": 473
+	},
+	"Sources/Methods/SortByDate.4dm": {
+		"left": 436,
+		"top": 324,
+		"width": 965,
+		"height": 400
+	},
+	"Sources/Forms/HDI2/ObjectMethods/Trace.4dm": {
+		"left": 711,
+		"top": 469,
+		"width": 993,
+		"height": 400
+	},
+	"Sources/Forms/HDI2/ObjectMethods/Choose your picture1.4dm": {
+		"left": 225,
+		"top": 334,
+		"width": 1084,
+		"height": 897
+	},
+	"Sources/Forms/HDI2/ObjectMethods/Tab Control.4dm": {
+		"left": 461,
+		"top": 339,
+		"width": 1358,
+		"height": 695
+	},
+	"Sources/Forms/HDI2/ObjectMethods/information.4dm": {
+		"left": 461,
+		"top": 339,
+		"width": 1358,
+		"height": 695
+	}
+}
