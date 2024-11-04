@@ -1,4 +1,4 @@
-# HDI_Template_20
+# HDI_Singletons_with_sessions
 
 Description (4D 20 R7)
 
